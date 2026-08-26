@@ -49,7 +49,7 @@ guest Wi-Fi change request.
 | 40 | Servers (File + Print) | 192.168.14.96/28 | 192.168.14.97 |
 | 99 | Guest Wi-Fi (CR3) | 192.168.14.112/28 | 192.168.14.113 |
 
-Full detail: see `02-design/Milestone1_Report.docx`.
+Full detail: see `02-design/45285209_milestone_1.docx`.
 
 ## Academic Integrity
 
